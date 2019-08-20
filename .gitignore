@@ -1,0 +1,8 @@
+# Удаляет все файлы бекапа созданные gedit
+*~
+
+gulpfile.js
+package.json
+package-lock.json
+node_modules/
+
