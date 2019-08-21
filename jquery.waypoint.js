@@ -1,6 +1,6 @@
 window.rsharpe = window.rsharpe || {};
 
-; (function ($, ns) {
+(function ($, ns) {
   'use strict';
 
   var plugin = ns.waypoint = {
