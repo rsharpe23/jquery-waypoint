@@ -4,7 +4,7 @@ Simple jq plugin to execute a function whenever you scroll through a necessary p
 Usage
 =====
 
-**include**
+**Include**
 
 ```
 <script src="jquery.waypoint.min.js"></script>
