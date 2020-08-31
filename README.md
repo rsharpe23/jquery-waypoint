@@ -34,7 +34,7 @@ $('.someElement').waypoint({
 
 **or with extra parameters**
 
-```
+```javascript
 $('.someElement').waypoint({
   once: true,
   offset: 50,
