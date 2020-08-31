@@ -6,13 +6,13 @@ Usage
 
 **Include**
 
-```
+```html
 <script src="jquery.waypoint.min.js"></script>
 ```
 
 **jQuery**
 
-```
+```javascript
 $('.someElement').waypoint({
   onEnter: function () {
     console.log('enter!');
